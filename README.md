@@ -16,8 +16,8 @@ Legion Net GCS is designed and tested primarily for:
 If UI gaps, oversized panels, or alignment issues appear, your display scaling is likely above 100%. Set scaling back to 100% for correct layout.
 
 ---
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad9f61fc-c71f-4b8e-98bc-a38d6110c63f" />
+
 
 
 ➡ New user? See [QUICK_START.md](QUICK_START.md)
