@@ -688,8 +688,6 @@ Legion Net GCS is designed for live launch operations, analysis, and mission rev
 
 ---
 
-# 📌 Summary
-
 Legion Net GCS provides:
 
 * Real-time telemetry monitoring
