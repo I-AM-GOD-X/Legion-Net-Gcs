@@ -466,9 +466,12 @@ Unused fields may be set to `0`.
 
 ### Gyroscope
 
+| # | Parameter | Description | Unit | Typical Range |
+|---|---|---|---|---|
 | 7 | `gx` | Gyro X | deg/s | -2000 to +2000 |
 | 8 | `gy` | Gyro Y | deg/s | -2000 to +2000 |
 | 9 | `gz` | Gyro Z | deg/s | -2000 to +2000 |
+
 
 | 10 | `mosfet` | MOSFET / ejection status | bool/int | 0 or 1 |
 
