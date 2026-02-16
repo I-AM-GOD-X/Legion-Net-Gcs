@@ -17,6 +17,8 @@ If UI gaps, oversized panels, or alignment issues appear, your display scaling i
 
 ---
 
+➡ New user? See [QUICK_START.md](QUICK_START.md)
+
 # 🧭 Interface Layout Overview
 
 The interface is divided into two major parts:
