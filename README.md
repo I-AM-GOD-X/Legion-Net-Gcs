@@ -458,9 +458,11 @@ Unused fields may be set to `0`.
 
 ### Accelerometer
 
-| 4 | `ax` | Acceleration X | m/s² | -50 to +50 |
-| 5 | `ay` | Acceleration Y | m/s² | -50 to +50 |
-| 6 | `az` | Acceleration Z | m/s² | -50 to +50 |
+| # | Parameter | Description | Unit | Typical Range |
+|---|---|---|---|---|
+| 4 | ax | Acceleration X | m/s² | -50 to +50 |
+| 5 | ay | Acceleration Y | m/s² | -50 to +50 |
+| 6 | az | Acceleration Z | m/s² | -50 to +50 |
 
 ### Gyroscope
 
